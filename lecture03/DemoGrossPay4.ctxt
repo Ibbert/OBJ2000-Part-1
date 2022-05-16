@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DemoGrossPay4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=hours\ rate
+comment2.target=double\ calculateNetPay(double,\ double)
+comment3.params=hours\ rate
+comment3.target=double\ calculateGross(double,\ double)
+comment4.params=gross
+comment4.target=double\ calculateWithholding(double)
+numComments=5

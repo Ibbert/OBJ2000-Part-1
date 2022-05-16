@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OverridingVariable
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ firstMethod()
+comment3.params=aNumber
+comment3.target=int\ secondMethod(int)
+numComments=4
